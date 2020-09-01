@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\bin\Debug\AStarDebug.exe.config
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\bin\Debug\AStarDebug.exe
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\bin\Debug\AStarDebug.pdb
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.Properties.Resources.resources
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.exe
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.pdb
+C:\Users\aleks\source\repos\AStarDebug\AStarDebug\obj\Debug\AStarDebug.Form1.resources
